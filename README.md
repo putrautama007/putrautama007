@@ -1,7 +1,21 @@
 <h1 align='left'>Hello Welcome! 👋</h1>
 
 My name is Nyoman Putra Utama, a fresh graduate of Informatics Engineering University of Brawijaya. Currently working as a Flutter Engineer at Tunaiku
-I am an mobile developer and passionate in android ,flutter, and ios application development. 
+I am an mobile developer and passionate in android ,flutter, and ios application development.
+
+## Social Media
+
+<p>
+  <a href="https://www.linkedin.com/in/putrautama007/">
+    <img width="35px" src="https://icons.veryicon.com/png/o/brands/logo-1/linkedin-box-fill-1.png" />
+  </a>&nbsp;&nbsp;
+  <a href="https://medium.com/@putrautama30">
+    <img width="35px" src="https://icons.veryicon.com/png/o/internet--web/logos/medium-fill.png" />
+  </a>&nbsp;&nbsp;
+   <a href="https://www.instagram.com/putrautama007">
+    <img width="35px" src="https://icons.veryicon.com/png/o/brands/logo-1/instagram-fill-2.png" />
+  </a>&nbsp;&nbsp;
+</p>
 
 ## Languages and Frameworks:
 - Android (Java/Kotlin)<img align="left" alt="android" width="35px" src="https://source.android.com/setup/images/Android_symbol_green_RGB.png"/>
