@@ -4,9 +4,9 @@ My name is Nyoman Putra Utama, a fresh graduate of Informatics Engineering Unive
 I am an mobile developer and passionate in android ,flutter, and ios application development. 
 
 ## Languages and Frameworks:
-- Android (Java/Kotlin)<img align="left" alt="android" width="30px" height="30px" src="https://source.android.com/setup/images/Android_symbol_green_RGB.png"/>
-- Flutter (Dart)<img align="left" alt="flutter" width="30px" height="30px" src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png"/>
-- IOS (Swift)<img align="left" alt="IOS" width="30px" height="30px" src="https://cdn.freelogovectors.net/wp-content/uploads/2018/08/IOS-logo.png"/>
+- Android (Java/Kotlin)<img align="left" alt="android" width="35px" src="https://source.android.com/setup/images/Android_symbol_green_RGB.png"/>
+- Flutter (Dart)<img align="left" alt="flutter" width="24px" src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png"/>
+- IOS (Swift)<img align="left" alt="IOS" width="30px" src="https://cdn.freelogovectors.net/wp-content/uploads/2018/08/IOS-logo.png"/>
 
 ## Stats:
 
