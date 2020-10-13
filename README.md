@@ -25,4 +25,6 @@ I am an mobile developer and passionate in android ,flutter, and ios application
 - IOS (Swift)<img align="left" alt="IOS" width="30px" src="https://cdn.freelogovectors.net/wp-content/uploads/2018/08/IOS-logo.png"/>
 
 ## Stats:
+<img src="https://github-readme-stats.vercel.app/api?username=putrautama007&show_icons=true">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=putrautama007&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
