@@ -1,6 +1,6 @@
 <h1 align='left'>Hello Welcome! 👋</h1>
 
-My name is Nyoman Putra Utama. Currently working as a Flutter Engineer at Tunaiku and Code Reviewer at Dicoding Indonesia.
+My name is Nyoman Putra Utama. Currently working as a Flutter Engineer at Ruangguru and Code Reviewer at Dicoding Indonesia.
 I am an mobile developer and passionate in android ,flutter, and ios application development.
 
 ![](https://komarev.com/ghpvc/?username=putrautama007&color=green)
