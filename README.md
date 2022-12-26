@@ -1,7 +1,7 @@
 <h1 align='left'>Hello Welcome! 👋</h1>
 
-My name is Nyoman Putra Utama. Previously work as a Flutter Engineer at Amar Bank and Ruangguru. Currently working as a Software Engineer II - Mobile at Mekari and Code Reviewer at Dicoding Indonesia.
-I am an mobile developer and passionate in android ,flutter, and ios application development.
+My name is Nyoman Putra Utama. Previously worked as a Flutter Engineer at Amar Bank and Ruangguru. Currently working as a Software Engineer II - Mobile at Mekari and Code Reviewer at Dicoding Indonesia.
+I am a mobile developer and passionate about android, and flutter application development.
 
 ![](https://komarev.com/ghpvc/?username=putrautama007&color=green)
 
