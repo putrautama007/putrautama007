@@ -14,7 +14,7 @@ I am a mobile developer and passionate about android, and flutter application de
   <a href="https://medium.com/@putrautama30">
     <img width="35px" src="https://icons.veryicon.com/png/o/internet--web/logos/medium-fill.png" />
   </a>&nbsp;&nbsp;
-   <a href="https://www.instagram.com/putrautama007">
+   <a href="https://www.instagram.com/nputrautama98">
     <img width="35px" src="https://icons.veryicon.com/png/o/brands/logo-1/instagram-fill-2.png" />
   </a>&nbsp;&nbsp;
 </p>
